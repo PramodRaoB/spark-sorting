@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="scala-2.12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exp1_rdd/target/scala-2.12/simple-project_2.12-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/exp1_rdd/target/scala-2.12/exp1-rdd_2.12-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
