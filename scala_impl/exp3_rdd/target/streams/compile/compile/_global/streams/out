@@ -1,4 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/home/pramod.b/spark-sorting/scala_impl/exp3_rdd/src/main/scala/exp3_rdd.scala:39:8: value keys is not a member of org.apache.spark.rdd.RDD[String][0m
-[0m[[0m[31merror[0m] [0m[0m    ks.keys().saveAsTextFile("hdfs://rce:9001/user/hdfs/final.out")[0m
-[0m[[0m[31merror[0m] [0m[0m       ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
